@@ -1,4 +1,4 @@
-# pet-clinic x2
+# Pet Clinic
 
-# Autores
+# Autor
 - Daniel Walteros
